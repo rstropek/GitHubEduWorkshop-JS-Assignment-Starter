@@ -18,6 +18,6 @@ You can verify whether your code is correct by running the unit tests ([*math.sp
 * Clone your assignment repository: `git clone ...`
 * Open a shell (e.g. command prompt, bash) and navigate to the directory containing the cloned repository
 * Install necessary Node.js package: `npm install`
-* Run unit tests: `npm run test`
+* Run unit tests: `npm test`
 
 If your code contains errors, fix them and rerun the last step as long as there are failing unit tests.
