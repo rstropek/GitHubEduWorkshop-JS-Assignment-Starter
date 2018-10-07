@@ -6,7 +6,7 @@ describe('Mathematical operations', function() {
   });
 
   it('can subtract two numbers', function() {
-    expect(math.add(4, 2)).toBe(2);
+    expect(math.sub(4, 2)).toBe(2);
   });
 
   it('can add numbers', function() {
